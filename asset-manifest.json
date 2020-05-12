@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hockey-faceoff/static/css/main.b01fadd1.chunk.css",
-    "main.js": "/hockey-faceoff/static/js/main.544a216a.chunk.js",
-    "main.js.map": "/hockey-faceoff/static/js/main.544a216a.chunk.js.map",
+    "main.css": "/hockey-faceoff/static/css/main.c805cb81.chunk.css",
+    "main.js": "/hockey-faceoff/static/js/main.5a67e19f.chunk.js",
+    "main.js.map": "/hockey-faceoff/static/js/main.5a67e19f.chunk.js.map",
     "runtime-main.js": "/hockey-faceoff/static/js/runtime-main.d14b0202.js",
     "runtime-main.js.map": "/hockey-faceoff/static/js/runtime-main.d14b0202.js.map",
-    "static/js/2.f6644cda.chunk.js": "/hockey-faceoff/static/js/2.f6644cda.chunk.js",
-    "static/js/2.f6644cda.chunk.js.map": "/hockey-faceoff/static/js/2.f6644cda.chunk.js.map",
+    "static/js/2.e30a19ae.chunk.js": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js",
+    "static/js/2.e30a19ae.chunk.js.map": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js.map",
     "index.html": "/hockey-faceoff/index.html",
-    "precache-manifest.53f97acb2c06568a938581e9b48177c9.js": "/hockey-faceoff/precache-manifest.53f97acb2c06568a938581e9b48177c9.js",
+    "precache-manifest.1c0fffee6afe609819858e07d87e1ea5.js": "/hockey-faceoff/precache-manifest.1c0fffee6afe609819858e07d87e1ea5.js",
     "service-worker.js": "/hockey-faceoff/service-worker.js",
-    "static/css/main.b01fadd1.chunk.css.map": "/hockey-faceoff/static/css/main.b01fadd1.chunk.css.map",
-    "static/js/2.f6644cda.chunk.js.LICENSE.txt": "/hockey-faceoff/static/js/2.f6644cda.chunk.js.LICENSE.txt",
+    "static/css/main.c805cb81.chunk.css.map": "/hockey-faceoff/static/css/main.c805cb81.chunk.css.map",
+    "static/js/2.e30a19ae.chunk.js.LICENSE.txt": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js.LICENSE.txt",
     "static/media/avs-home.jpg": "/hockey-faceoff/static/media/avs-home.d5deeeb5.jpg",
     "static/media/avs-road.jpg": "/hockey-faceoff/static/media/avs-road.b478d891.jpg",
     "static/media/blues-home.jpg": "/hockey-faceoff/static/media/blues-home.50e28d03.jpg",
@@ -78,8 +78,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d14b0202.js",
-    "static/js/2.f6644cda.chunk.js",
-    "static/css/main.b01fadd1.chunk.css",
-    "static/js/main.544a216a.chunk.js"
+    "static/js/2.e30a19ae.chunk.js",
+    "static/css/main.c805cb81.chunk.css",
+    "static/js/main.5a67e19f.chunk.js"
   ]
 }
