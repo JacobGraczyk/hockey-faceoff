@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hockey-faceoff/precache-manifest.1c0fffee6afe609819858e07d87e1ea5.js"
+  "/hockey-faceoff/precache-manifest.e8de8c4acac4a2f0914ff1784797c6b6.js"
 );
 
 self.addEventListener('message', (event) => {
