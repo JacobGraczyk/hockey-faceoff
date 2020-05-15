@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hockey-faceoff/static/css/main.90800102.chunk.css",
-    "main.js": "/hockey-faceoff/static/js/main.f854ca89.chunk.js",
-    "main.js.map": "/hockey-faceoff/static/js/main.f854ca89.chunk.js.map",
+    "main.css": "/hockey-faceoff/static/css/main.cfa75305.chunk.css",
+    "main.js": "/hockey-faceoff/static/js/main.9e6e9156.chunk.js",
+    "main.js.map": "/hockey-faceoff/static/js/main.9e6e9156.chunk.js.map",
     "runtime-main.js": "/hockey-faceoff/static/js/runtime-main.d14b0202.js",
     "runtime-main.js.map": "/hockey-faceoff/static/js/runtime-main.d14b0202.js.map",
     "static/js/2.e30a19ae.chunk.js": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js",
     "static/js/2.e30a19ae.chunk.js.map": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js.map",
     "index.html": "/hockey-faceoff/index.html",
-    "precache-manifest.f59cfd7096e8f2cbe7e26a02ee6306c7.js": "/hockey-faceoff/precache-manifest.f59cfd7096e8f2cbe7e26a02ee6306c7.js",
+    "precache-manifest.8d06ecd33bc7b455078a6bb81173d7f2.js": "/hockey-faceoff/precache-manifest.8d06ecd33bc7b455078a6bb81173d7f2.js",
     "service-worker.js": "/hockey-faceoff/service-worker.js",
-    "static/css/main.90800102.chunk.css.map": "/hockey-faceoff/static/css/main.90800102.chunk.css.map",
+    "static/css/main.cfa75305.chunk.css.map": "/hockey-faceoff/static/css/main.cfa75305.chunk.css.map",
     "static/js/2.e30a19ae.chunk.js.LICENSE.txt": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js.LICENSE.txt",
     "static/media/avs-home.jpg": "/hockey-faceoff/static/media/avs-home.d5deeeb5.jpg",
     "static/media/avs-road.jpg": "/hockey-faceoff/static/media/avs-road.b478d891.jpg",
@@ -79,7 +79,7 @@
   "entrypoints": [
     "static/js/runtime-main.d14b0202.js",
     "static/js/2.e30a19ae.chunk.js",
-    "static/css/main.90800102.chunk.css",
-    "static/js/main.f854ca89.chunk.js"
+    "static/css/main.cfa75305.chunk.css",
+    "static/js/main.9e6e9156.chunk.js"
   ]
 }
