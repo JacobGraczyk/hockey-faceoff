@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hockey-faceoff/static/css/main.2c6e747e.chunk.css",
+    "main.css": "/hockey-faceoff/static/css/main.3079b36f.chunk.css",
     "main.js": "/hockey-faceoff/static/js/main.1f80cbea.chunk.js",
     "main.js.map": "/hockey-faceoff/static/js/main.1f80cbea.chunk.js.map",
     "runtime-main.js": "/hockey-faceoff/static/js/runtime-main.d14b0202.js",
@@ -8,9 +8,9 @@
     "static/js/2.e30a19ae.chunk.js": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js",
     "static/js/2.e30a19ae.chunk.js.map": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js.map",
     "index.html": "/hockey-faceoff/index.html",
-    "precache-manifest.de383579b4d607f1f3efdb636d4b3e10.js": "/hockey-faceoff/precache-manifest.de383579b4d607f1f3efdb636d4b3e10.js",
+    "precache-manifest.95f2a15e54de9dadad59bb590d3beb9c.js": "/hockey-faceoff/precache-manifest.95f2a15e54de9dadad59bb590d3beb9c.js",
     "service-worker.js": "/hockey-faceoff/service-worker.js",
-    "static/css/main.2c6e747e.chunk.css.map": "/hockey-faceoff/static/css/main.2c6e747e.chunk.css.map",
+    "static/css/main.3079b36f.chunk.css.map": "/hockey-faceoff/static/css/main.3079b36f.chunk.css.map",
     "static/js/2.e30a19ae.chunk.js.LICENSE.txt": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js.LICENSE.txt",
     "static/media/avs-home.jpg": "/hockey-faceoff/static/media/avs-home.d5deeeb5.jpg",
     "static/media/avs-road.jpg": "/hockey-faceoff/static/media/avs-road.b478d891.jpg",
@@ -79,7 +79,7 @@
   "entrypoints": [
     "static/js/runtime-main.d14b0202.js",
     "static/js/2.e30a19ae.chunk.js",
-    "static/css/main.2c6e747e.chunk.css",
+    "static/css/main.3079b36f.chunk.css",
     "static/js/main.1f80cbea.chunk.js"
   ]
 }
