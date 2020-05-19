@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e11089090b7405525df590bc2a2ae6f0",
+    "revision": "ec90b4f2372cbf1f6c2df27869aa9d5c",
     "url": "/hockey-faceoff/index.html"
   },
   {
-    "revision": "c7c4ae41d36f265ea65a",
-    "url": "/hockey-faceoff/static/css/main.5044debb.chunk.css"
+    "revision": "df5b8fac5bea1d56f912",
+    "url": "/hockey-faceoff/static/css/main.fd325f5e.chunk.css"
   },
   {
     "revision": "12167724ada0c70f8243",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hockey-faceoff/static/js/2.e30a19ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7c4ae41d36f265ea65a",
-    "url": "/hockey-faceoff/static/js/main.08faf7ad.chunk.js"
+    "revision": "df5b8fac5bea1d56f912",
+    "url": "/hockey-faceoff/static/js/main.f5de9257.chunk.js"
   },
   {
     "revision": "55a87528b26a20feac47",
